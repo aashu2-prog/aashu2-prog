@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="![image1](image1)" width="180" alt="Aashish BK" style="border-radius:50%;margin-bottom:20px;">
-  
+
   # Hi, I'm Aashish BK 👋
 
   **Computer Engineering Student | Tech Explorer | Robotics & AI Enthusiast**
@@ -40,7 +38,7 @@ I am Aashish BK, a passionate Computer Engineering student currently studying at
 
 ## 📫 How to Reach Me
 
-- **GitHub:**  
+ 
 - **LinkedIn:** https://www.linkedin.com/in/aashish-biswocarma-59031633a/ 
 - **Email:** aashishbiswocarma55@gmail.com
 
